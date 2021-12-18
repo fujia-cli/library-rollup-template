@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <h1>@fujia/electron-element-template</h1>
+  <h1>@fujia/library-rollup-template</h1>
 </div>
 
 <div align="center">
 
-A template for electron build on element-ui.
+A template for JavaScript library which build on rollup and TypeScript.
 
 </div>
 
