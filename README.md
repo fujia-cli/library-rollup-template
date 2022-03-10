@@ -1,6 +1,6 @@
 <div align="center">
   <a href="" target="_blank">
-    <img alt="hammer logo" width="200" src="https://static-images-1305792369.cos.ap-shanghai.myqcloud.com/hammer.svg"/>
+    <img alt="stage logo" width="200" src="https://images-1254102905.file.myqcloud.com/avatars/template.svg"/>
   </a>
 </div>
 
