@@ -1,6 +1,6 @@
 {
   "name": "@fujia/library-rollup-template",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A template for JavaScript library which build on rollup and TypeScript.",
   "keywords": [
     "library",
