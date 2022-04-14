@@ -25,5 +25,5 @@ module.exports = {
       "@typescript-eslint/no-empty-function": 0,
       "@typescript-eslint/no-explicit-any": 0,
   },
-  "ignorePatterns": ["docs", "scripts", "dist"]
+  "ignorePatterns": ["docs", "scripts", "lib"]
 };

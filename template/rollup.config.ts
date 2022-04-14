@@ -30,7 +30,7 @@ export default [
         file: '',
         format: 'umd',
         exports: 'named',
-        name: '',
+        name: '', // specify the property name of window
       }
     ],
     // Indicate here external modules you don't wanna include in your bundle (i.e.: 'lodash')

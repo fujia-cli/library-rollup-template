@@ -10,12 +10,13 @@
     "url": "https://github.com/fushenguang",
     "email": "fujia.site@outlook.com"
   },
-  "main": "dist/index.js",
-  "module": "dist/<%= packageName %>.esm.js",
-  "esnext": "dist/<%= packageName %>.esnext.js",
-  "types": "dist/types/index.d.ts",
+  "main": "lib/index.js",
+  "module": "lib/<%= packageName %>.esm.js",
+  "umd": "lib/<%= packageName %>.min.js",
+  "esnext": "lib/<%= packageName %>.esnext.js",
+  "types": "lib/types/index.d.ts",
   "files": [
-    "dist"
+    "lib"
   ],
   "repository": {
     "type": "git",
